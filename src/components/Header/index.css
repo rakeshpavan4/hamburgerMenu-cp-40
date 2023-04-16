@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.header {
+  height: 65px;
+  box-shadow: 1px 1px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+}
+.image {
+  height: 50px;
+}
+.AiHome {
+  display: flex;
+  align-items: center;
+}
+.homelink {
+  list-style-type: none;
+}
